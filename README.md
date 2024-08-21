@@ -24,5 +24,5 @@ powershell.exe -ExecutionPolicy Bypass -File ./install.ps1
 ```
 
 ## Modifying Message Files and DLLs
-If you understood what the header was talking about, you probably know enough/more than me about writing to and compiling these things. <br />
+If you understood what the header was talking about, you probably know enough (maybe even more than me, since this script was the first time I messed with creating event logs) about writing to and compiling these things. <br />
 They're located in `./Event Compiling/`. Just make sure to change the DLL path in the Registry in case you decide to fiddle with the file.
